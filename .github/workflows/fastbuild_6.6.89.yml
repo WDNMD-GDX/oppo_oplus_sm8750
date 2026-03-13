@@ -1,4 +1,4 @@
-name: 加速版构建 6.6.89 欧加真OKI内核
+name: 加速版构建 6.6.89 欧加真OKI内核lz4
 
 env:
   TZ: Asia/Shanghai
